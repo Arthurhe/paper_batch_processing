@@ -1,0 +1,15 @@
+# Local paper inputs
+paper_to_be_processed/*
+!paper_to_be_processed/.gitkeep
+
+# Generated Zotero import outputs and processed PDFs
+paper_processed/*
+!paper_processed/.gitkeep
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local/editor noise
+.DS_Store
+Thumbs.db
